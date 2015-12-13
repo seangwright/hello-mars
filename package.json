@@ -1,6 +1,6 @@
 {
   "name": "sgwatgit-hello-mars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is for testing publishing to npm",
   "main": "index.js",
   "scripts": {
