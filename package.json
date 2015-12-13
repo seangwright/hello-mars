@@ -1,0 +1,19 @@
+{
+  "name": "sgwatgit-hello-mars",
+  "version": "1.0.0",
+  "description": "This package is for testing publishing to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgwatgit/hello-mars.git"
+  },
+  "author": "Sean G. Wright <sean@seangwright.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgwatgit/hello-mars/issues"
+  },
+  "homepage": "https://github.com/sgwatgit/hello-mars#readme"
+}
